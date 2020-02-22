@@ -1,4 +1,3 @@
-<<<<<<< HEAD>>>>>>>>>>
 # Descriptive-Statistics
 Contain basic Statistics fundamental notebook exploration on case study of cardio fitness
 =======
@@ -17,5 +16,4 @@ annual household income ;
 average number of times the customer plans to use the treadmill each week;
 average number of miles the customer expects to walk/run each week;
 and self-rated fitness on an 1-to-5 scale, where 1 is poor shape and 5 is excellent shape.
-Perform descriptive analytics to create a customer profile for each CardioGood Fitness treadmill product line.¶
->>>>>>> Commit-final
+Perform descriptive analytics to create a customer profile for each CardioGood Fitness treadmill product line.
